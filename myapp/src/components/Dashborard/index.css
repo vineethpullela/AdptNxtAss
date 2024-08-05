@@ -1,0 +1,57 @@
+.dashboard{
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    }
+    
+    .Header{
+      font-family: "Roboto";
+      font-size: 28px;
+      font-weight: bold;
+      color: #3460b7;
+      background-color: #d1d2d5;
+      text-align: left;
+      padding: 10px;
+      border-radius: 5px;
+      
+    }
+    .ul{
+      list-style-type: none;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 5px;
+      margin-top: 0px;
+    }
+    .item{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    color: #133c6f;
+    margin: 15px;
+    margin-left: 0px;
+    padding-left: 20px;
+    
+    }
+    .a{
+      border-left: #8689d4 3px solid;
+    }
+    .b{
+      border-left: #1bbe06 3px solid;
+    }
+    .c{
+      border-left: #ae6636 3px solid;
+    
+    }
+    .d{
+      border-left: #cc4b4b 3px solid;
+    
+    }
+    .e{
+      border-left: #e7cc1a 3px solid;
+    }
+    .f{
+      border-left: #121315 3px solid;
+    }
+    
